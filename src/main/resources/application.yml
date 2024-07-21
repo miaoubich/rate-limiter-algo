@@ -1,0 +1,6 @@
+spring:
+ application.name: TockerBucketRateLimiter
+
+tokenbucket.capacity: 1
+tokenbucket.refillRate: 1
+tokenbucket.unit: SECONDS
